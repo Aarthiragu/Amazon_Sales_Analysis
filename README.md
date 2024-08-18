@@ -7,23 +7,23 @@ This project does a detailed study of the Amazon Sales Report, providing signifi
 
 **SIGNIFICANT FEATURES**
 
-Sales Trend Analysis: Determines monthly sales patterns and peak periods.
+**Sales Trend Analysis:** Determines monthly sales patterns and peak periods.
 
-Product Performance Evaluation: Assesses the popularity of various product categories and sizes.
+**Product Performance Evaluation:** Assesses the popularity of various product categories and sizes.
 
-The Fulfillment Efficiency Assessment compares the effectiveness of Amazon and merchant fulfillment processes.
+**Fulfillment Efficiency:** Analyse the effectiveness of Amazon and merchant fulfillment processes.
 
-Customer segmentation and Geographical insights: Examines sales distribution across multiple areas to discover major markets.
+**Customer segmentation and Geographical insights:** Examines sales distribution across multiple areas to discover major markets.
 
 **PROCESS**
 
-Data Cleaning and Preparation: Steps to clean and prepare a dataset for analysis.
+**Data Cleaning and Preparation:** Steps to clean and prepare a dataset for analysis.
 
-Detailed Analysis: Methodology and results for each main target.
+**Detailed Analysis:** Methodology and results for each main target.
 
-Visualization: Power BI is used to create interactive visuals.
+**Visualization:** Power BI is used to create interactive visuals.
 
-Recommendations: Data-driven insights to improve operations and boost growth.
+**Recommendations:** Data-driven insights to improve operations and boost growth.
 
 **VISUALIZATIONS**
 
